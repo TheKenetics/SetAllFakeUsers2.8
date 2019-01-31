@@ -4,7 +4,7 @@ Blender addon for setting all fake users in datablocks.
 ## Why
 Makes it easy to:  
 * Add fake users to everything if you want to keep everything in the blend file.  
-* Remove fake users from unused content to decrease the blend file's size.  
+* Remove fake users to decrease the blend file's size.  
 ### Features
 Can set fake users for following datablocks:
 * Brush
